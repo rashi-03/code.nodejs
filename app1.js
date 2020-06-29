@@ -1,2 +1,3 @@
 //practice code
-console.log("Happy Birthday");
+//add changes
+console.log("Get STarted with Git")
